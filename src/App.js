@@ -10,13 +10,12 @@ const App =()=>{
   return(
     <>
     <MyFullName>
-      this is my full name
+     
     </MyFullName>
     <MyAdress>
-      This is my adress
+    
     </MyAdress>
     <MyProfilePhoto>
-      Here's a picture of me 
     </MyProfilePhoto>
 
     </>
